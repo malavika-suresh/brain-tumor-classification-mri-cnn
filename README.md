@@ -1,12 +1,13 @@
 # Brain Tumor Detection using CNN
 
 ## Main Libraries & Tools
-- [TensorFlow](https://www.tensorflow.org/) – Deep learning framework for model building  
-- [Keras](https://keras.io/) – High-level API for TensorFlow  
-- [OpenCV](https://opencv.org/) – Image processing and computer vision  
-- [Matplotlib](https://matplotlib.org/) – Visualization library for plots & images  
-- [scikit-learn](https://scikit-learn.org/stable/) – Data splitting and evaluation metrics  
-- [imutils](https://github.com/jrosebr1/imutils) – Helper functions for image processing  
+
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) – Deep learning framework for model building  
+- [![Keras](https://img.shields.io/badge/Keras-2.12-red.svg)](https://keras.io/) – High-level API for TensorFlow  
+- [![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-blue.svg)](https://opencv.org/) – Image processing and computer vision  
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-brightgreen.svg)](https://matplotlib.org/) – Visualization library for plots & images  
+- [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-yellow.svg)](https://scikit-learn.org/stable/) – Data splitting and evaluation metrics  
+- [![imutils](https://img.shields.io/badge/imutils-0.5.4-lightgrey.svg)](https://github.com/jrosebr1/imutils) – Helper functions for image processing  
 
 ---
 
@@ -91,6 +92,3 @@ Please cite our peer-reviewed work if you use this repository:
 [ResearchGate Publication](https://www.researchgate.net/publication/352148333_Brain_Tumour_Detection_Using_Deep_Learning)
 
 ---
-
-## License
-This project is released under the **MIT License**.
