@@ -1,6 +1,6 @@
-# Brain Tumor Detection using CNN
+# 🧠 Brain Tumor Detection using CNN
 
-## Main Libraries & Tools
+## 🔗 Main Libraries & Tools
 
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) – Deep learning framework for model building  
 - [![Keras](https://img.shields.io/badge/Keras-2.12-red.svg)](https://keras.io/) – High-level API for TensorFlow  
@@ -11,7 +11,7 @@
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 ```
 BRAIN_TUMOR_DETECTION/
 │── brain_tumor_dataset/
@@ -25,7 +25,7 @@ BRAIN_TUMOR_DETECTION/
 
 ---
 
-## Requirements
+## 🛠️ Requirements
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
@@ -43,7 +43,7 @@ scikit-learn
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
 1. **Prepare Dataset**  
    Organize your data as:
@@ -68,7 +68,7 @@ scikit-learn
    ```
 
 ---
-## Model Performance (from paper)
+## 📊 Model Performance (from paper)
 
 ```
 Accuracy (Test): 0.95  
@@ -77,14 +77,14 @@ F1 Score (Test): 0.93
 
 ---
 
-## How It Works
+## 🧮 How It Works
 - **Preprocessing**: grayscale conversion → Gaussian blur → thresholding → morphological cleanup → contour cropping.  
 - **CNN Model**: convolutional layers → batch norm & pooling → dense classification head.  
 - **Prediction Logic**: outputs probability; if > 0.6 → “Brain Tumor Detected,” else “Normal.”
 
 ---
 
-## Reference & Citation
+## 📜 Reference & Citation
 
 Please cite our peer-reviewed work if you use this repository:
 
